@@ -1,0 +1,8 @@
+# One entry per line.
+# Auto mode:
+# - Normal video URL => single download
+# - Playlist URL (/playlist?list=...) => full playlist download
+#
+# Optional prefixes to force behavior:
+# single https://www.youtube.com/watch?v=VIDEO_ID&list=PLAYLIST_ID
+# playlist https://www.youtube.com/watch?v=VIDEO_ID&list=PLAYLIST_ID
